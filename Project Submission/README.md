@@ -16,5 +16,5 @@ General Information of the bootcamp repository:
 | No | Name  | Email |IG | Status | Remark |
 |:--:|:-------------:|:-------------:|:-----:|:-----:|:-----:|
 | 1| Kurnianto      | furqonkurnianto27@gmail.com     | @kurnianto.27 | ✅ | Done |
-| 2| Your Name 2      | yourname1@gmail.com     | @yourIG2 | - | Waiting |
+| 2| Dio      | dio.kuchiki.94@gmail.com     | @dio.kuchiki.94 | - | Waiting |
 | 3| Your Name 3     | yourname1@gmail.com      | @yourIG3 | - | Waiting |
